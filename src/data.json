@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Complete project report",
+    "priorityLevel": "High",
+    "isChecked": false
+  },
+  {
+    "id": 2,
+    "title": "Buy groceries",
+    "priorityLevel": "Medium",
+    "isChecked": false
+  },
+  {
+    "id": 3,
+    "title": "Schedule meeting with team",
+    "priorityLevel": "High",
+    "isChecked": true
+  },
+  {
+    "id": 4,
+    "title": "Renew gym membership",
+    "priorityLevel": "Low",
+    "isChecked": false
+  },
+  {
+    "id": 5,
+    "title": "Plan weekend trip",
+    "priorityLevel": "Medium",
+    "isChecked": true
+  }
+]
